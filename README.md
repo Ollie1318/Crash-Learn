@@ -1,2 +1,2 @@
 # Crash-Learn
-A project exploring data on care crashes in queensland
+A project exploring data on car crashes in queensland
